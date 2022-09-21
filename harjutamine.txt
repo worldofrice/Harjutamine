@@ -1,2 +1,4 @@
 GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab inimestel kõikjal projektide kallal koos töötada.
 Githubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted.
+
+Ma saan GitHubi kasutada selleks, et laadida üles oma projekte ja kodutööd, et neid oleks võimalik igal pool alla laadida ja muuta.
